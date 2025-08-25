@@ -1,0 +1,4 @@
+- Diseñar 3 clases que representen: círculos, triángulos (del tipo rectángulo) y rectángulos
+- Cada clase deberá tener implementados los constructores, getters, setters y toString.
+- Cada clase deberá poder informar su perímetro y su superficie.
+- Testear los funcionamientos de las clases.
